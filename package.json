@@ -1,0 +1,11 @@
+{
+  "name": "handlebars-chalk",
+  "version": "1.0.0",
+  "description": "chalk block helper for Handlebars",
+  "main": "index.js",
+  "author": "Jarrod Overson",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
